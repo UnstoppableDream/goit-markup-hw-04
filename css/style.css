@@ -441,6 +441,7 @@ margin-right: 120px;
     letter-spacing: 0.02em;
     color: #ffffff;
     margin-bottom: 16px;
+    margin-top: 0;
 }
 .footer-social-list{
     display: flex;
